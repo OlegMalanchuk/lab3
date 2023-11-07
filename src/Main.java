@@ -1,7 +1,27 @@
 public class Main
 {
-    public static void main(String[] args)
+    public static <TriangleCut> void main(String[] args)
     {
+
+        Converting converting = new Converting();
+        converting.convert(156);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     }
 }
