@@ -6,6 +6,8 @@ public class Main
         Converting converting = new Converting();
         converting.convert(156);
         System.out.println("l");
+        System.out.println("l");
+        System.out.println("l");
 
 
 
